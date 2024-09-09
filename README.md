@@ -2,7 +2,7 @@ Kaggle Link for the projects are  =>
 
 https://www.kaggle.com/code/anjali1008/analyzing-numerical-data-with-numpy
 
-https://www.kaggle.com/code/anjali1008/medicare-monthly-enrollment-project-insights
+https://www.kaggle.com/code/anjali1008/exploratory-data-analysis-medicare-dataset
 
 https://www.kaggle.com/code/anjali1008/scraping-data-from-a-real-website?scriptVersionId=158753819
 
