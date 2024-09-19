@@ -1,0 +1,30 @@
+Automating Workflows with Python Scripts
+Python is used for automation by writing scripts. You can automate repetitive tasks like web scraping, file handling, data extraction etc using Python.
+
+1.GUI Automation using Python :
+
+1a. Module "PyAutoGUI" performs GUI and desktop automation using python. 
+
+  pip install pyautogui # for windows
+
+Ex 1: Automating mouse movements 
+Describe : The function again returns a point object with x and y values that gets the current position of the mouse.
+
+import pyautogui
+# returns a point object with 
+# x and y values
+print(pyautogui.position()) 
+
+
+1bThe functions don’t return anything but perform the jobs of simulating the typing of a string that is passed inside it. 
+# used to access time related functions
+import time 
+import pyautogui
+
+# pauses the execution of the program 
+# for 5 sec
+time.sleep(5) 
+
+# types the string passed inside the 
+# function
+pyautogui.typewrite("Geeks For Geeks!") 
